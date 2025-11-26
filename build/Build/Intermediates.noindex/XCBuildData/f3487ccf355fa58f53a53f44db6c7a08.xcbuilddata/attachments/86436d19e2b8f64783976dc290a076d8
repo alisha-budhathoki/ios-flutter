@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/Flutter V2-master.dia",
+    "emit-module-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/Flutter V2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/Flutter V2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/Flutter V2-master.swiftdeps"
+  },
+  "/Users/alisha/Documents/Flutter V2/Flutter V2/AppDelegate.swift" : {
+    "const-values" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/alisha/Documents/Flutter V2/Flutter V2/SceneDelegate.swift" : {
+    "const-values" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/alisha/Documents/Flutter V2/Flutter V2/ViewController.swift" : {
+    "const-values" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/alisha/Documents/Flutter V2/build/Build/Intermediates.noindex/Flutter V2.build/Debug-iphonesimulator/Flutter V2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
